@@ -12,5 +12,12 @@
     "kind": "auditoria",
     "text": "Anita auditó el estudio de 5 productos tech (239 líneas): 46 datos sin verificar; sin prueba dura a nivel de modelo exacto.",
     "created_at": "2026-11-10T22:09:15Z"
+  },
+  {
+    "id": "taco-2026-11-10-001",
+    "boss": "taco",
+    "kind": "finanzas",
+    "text": "Taco registro su analisis de margenes TOP 10 en contributions.json.",
+    "created_at": "2026-11-10T22:12:04Z"
   }
 ]
