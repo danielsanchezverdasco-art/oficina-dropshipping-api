@@ -5,5 +5,12 @@
     "kind": "operaciones",
     "text": "Pecas conectado a GitHub con token propio (verificado 23:00 CET, push OK). Puntuacion semilla: 10 productos estudio pasan neto >=14,50 EUR pero fallan mult x3,5-4 con mult=PVP/neto (2,13-2,55); definicion del mult pendiente de Dani. Caza rondas 1-2: dish drying rack (64.376 uds TikTok Shop US), fleece-lined tights (38.908 uds), molinillo electrico sal/pimienta, abridor electrico vino, proyector LED nieve Navidad (urgente BFCM). Sin COGS cerrado, sin propuesta, sin APTO.",
     "created_at": "2026-11-10T22:01:10Z"
+  },
+  {
+    "id": "pecas-2026-11-10-002",
+    "boss": "pecas",
+    "kind": "operaciones",
+    "text": "Conector custom.github creado y verificado con la credencial guardada en la boveda: helper bin/gh.py (read/write por Contents API) responde 200 y lee la contribucion anterior. Escritura permanente lista, sin token en ficheros.",
+    "created_at": "2026-11-10T22:03:27Z"
   }
 ]
