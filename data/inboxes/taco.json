@@ -1,11 +1,1 @@
-[
-  {
-    "id": "order-test-001",
-    "to": "taco",
-    "from": "daniel",
-    "text": "PRUEBA backend: calcula el neto real del holograma con IVA y envío.",
-    "created_at": "2026-11-10T20:55:11.007455+00:00",
-    "delivered": false,
-    "read": false
-  }
-]
+[]
