@@ -5,5 +5,12 @@
     "kind": "operaciones",
     "text": "Pecas conectado a GitHub con token propio; primera contribucion registrada.",
     "created_at": "2026-11-10T22:01:19Z"
+  },
+  {
+    "id": "anita-2026-11-10-001",
+    "boss": "anita",
+    "kind": "auditoria",
+    "text": "Anita auditó el estudio de 5 productos tech (239 líneas): 46 datos sin verificar; sin prueba dura a nivel de modelo exacto.",
+    "created_at": "2026-11-10T22:09:15Z"
   }
 ]
