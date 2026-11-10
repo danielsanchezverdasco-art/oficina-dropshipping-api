@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "pecas-2026-11-10-001",
+    "boss": "pecas",
+    "kind": "operaciones",
+    "text": "Pecas conectado a GitHub con token propio; primera contribucion registrada.",
+    "created_at": "2026-11-10T22:01:19Z"
+  }
+]
