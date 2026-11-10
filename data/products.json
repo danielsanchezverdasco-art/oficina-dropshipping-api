@@ -1,0 +1,124 @@
+[
+  {
+    "id": "estudio-01",
+    "name": "Set prensa dumplings",
+    "kind": "estudio",
+    "verdict": "pendiente",
+    "pvp": 39.95,
+    "neto": 18.03,
+    "score": 43,
+    "cpa": 10.61,
+    "trasAds": 7.42
+  },
+  {
+    "id": "estudio-02",
+    "name": "Exprimidor cítricos",
+    "kind": "estudio",
+    "verdict": "pendiente",
+    "pvp": 44.95,
+    "neto": 17.66,
+    "score": 41,
+    "cpa": null,
+    "trasAds": null
+  },
+  {
+    "id": "estudio-03",
+    "name": "Proyector aurora 4-en-1",
+    "kind": "estudio",
+    "verdict": "pendiente",
+    "pvp": 44.9,
+    "neto": 20.48,
+    "score": 40,
+    "cpa": null,
+    "trasAds": null
+  },
+  {
+    "id": "estudio-04",
+    "name": "Cargador inalámbrico 3 en 1 MagSafe",
+    "kind": "estudio",
+    "verdict": "pendiente",
+    "pvp": 39.9,
+    "neto": 18.75,
+    "score": 40,
+    "cpa": null,
+    "trasAds": null
+  },
+  {
+    "id": "estudio-05",
+    "name": "Barra luz LED monitor",
+    "kind": "estudio",
+    "verdict": "pendiente",
+    "pvp": 39.9,
+    "neto": 18.08,
+    "score": 40,
+    "cpa": null,
+    "trasAds": null
+  },
+  {
+    "id": "estudio-06",
+    "name": "Proyector narrador cuentos",
+    "kind": "estudio",
+    "verdict": "pendiente",
+    "pvp": 44.95,
+    "neto": 20.64,
+    "score": 40,
+    "cpa": null,
+    "trasAds": null
+  },
+  {
+    "id": "estudio-07",
+    "name": "Molinillo café manual",
+    "kind": "estudio",
+    "verdict": "pendiente",
+    "pvp": 49.95,
+    "neto": 19.62,
+    "score": 40,
+    "cpa": null,
+    "trasAds": null
+  },
+  {
+    "id": "estudio-08",
+    "name": "Lámpara cubo cristal aurora",
+    "kind": "estudio",
+    "verdict": "pendiente",
+    "pvp": 34.9,
+    "neto": 15.74,
+    "score": 40,
+    "cpa": null,
+    "trasAds": null
+  },
+  {
+    "id": "estudio-09",
+    "name": "Velas LED efecto llama pack 5",
+    "kind": "estudio",
+    "verdict": "pendiente",
+    "pvp": 39.9,
+    "neto": 16.05,
+    "score": 40,
+    "cpa": null,
+    "trasAds": null
+  },
+  {
+    "id": "estudio-10",
+    "name": "Alfombrilla escritorio XXL RGB",
+    "kind": "estudio",
+    "verdict": "pendiente",
+    "pvp": 44.9,
+    "neto": 19.41,
+    "score": 39,
+    "cpa": null,
+    "trasAds": null
+  },
+  {
+    "id": "estrella-01",
+    "name": "Asistente Holográfico de Escritorio con Avatar IA",
+    "kind": "estrella",
+    "verdict": "pendiente",
+    "pvp": 99,
+    "neto": null,
+    "score": 9,
+    "cpa": null,
+    "trasAds": null,
+    "note": "Producto estrella · 9,0/10 · COGS 22,50–26,70 € · margen bruto 72,50 € · menos de 500 g · entrega 6–9 días"
+  }
+]
