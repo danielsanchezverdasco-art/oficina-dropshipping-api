@@ -19,5 +19,12 @@
     "kind": "auditoria",
     "text": "Auditoria de calidad y datos del estudio TOP 5 productos de tecnologia que aun no estan en Espana (10/11/2026, 239 lineas, 5 fichas verificadas una a una): estructura de 5 puntos + evidencia de novedad por producto correcta; 46 datos sin verificar (envio y plazo 6-9 dias en los 5, precio 1688, ficha CJ, nombres en chino, CE); NINGUN producto con prueba dura a nivel de modelo exacto (prueba solo a nivel de categoria); novedad de formato/escalon de precio en 3 de 5 (Plaud, MEATER y Withings ya estan en Espana) y novedad casi total solo en raton IA de voz y sensor de caidas; ningun precio es de 1688 (login bloqueado, proxy Alibaba/Accio); 4 de 5 superan el CPA Meta en unidad suelta, pero sin test de demanda no son ganadores probados. Veredicto de calidad: documento APTO como investigacion, NO APTO como lista de lanzamiento sin el test de demanda y la cotizacion real de envio.",
     "created_at": "2026-11-10T22:09:15Z"
+  },
+  {
+    "id": "taco-2026-11-10-001",
+    "boss": "taco",
+    "kind": "finanzas",
+    "text": "Taco CFO: analisis de margenes TOP 10 (PVP/neto 2,13-2,55; neto/PVP 39,3-47,0%). Mejor neto/PVP: cargador MagSafe 47,0% (18,75 EUR); mayor neto: proyector narrador 20,64 EUR. Solo dumplings tiene CPA verificado: 10,61 EUR, tras ads 7,42 EUR, ROAS 3,77; presupuesto 150 EUR = 14,1 ventas a ese CPA. Estrella PVP 99 EUR, COGS 22,50-26,70 EUR, margen bruto 72,30-76,50 EUR. Con mult objetivo 3,5-4, ningun TOP 10 llega (max 2,55). Sin propuestas en debate, sin ventas registradas.",
+    "created_at": "2026-11-10T22:12:04Z"
   }
 ]
