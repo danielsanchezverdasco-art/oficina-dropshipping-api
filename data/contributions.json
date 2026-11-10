@@ -1,9 +1,1 @@
-[
-  {
-    "id": "test-001",
-    "boss": "taco",
-    "kind": "finanzas",
-    "text": "PRUEBA backend: Taco revisa el margen del holograma (PVP 99 €, COGS 22,50–26,70 €, margen bruto 72,50 €).",
-    "created_at": "2026-11-10T20:55:06.931765+00:00"
-  }
-]
+[]
