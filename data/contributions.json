@@ -12,5 +12,12 @@
     "kind": "operaciones",
     "text": "Conector custom.github creado y verificado con la credencial guardada en la boveda: helper bin/gh.py (read/write por Contents API) responde 200 y lee la contribucion anterior. Escritura permanente lista, sin token en ficheros.",
     "created_at": "2026-11-10T22:03:27Z"
+  },
+  {
+    "id": "anita-2026-11-10-001",
+    "boss": "anita",
+    "kind": "auditoria",
+    "text": "Auditoria de calidad y datos del estudio TOP 5 productos de tecnologia que aun no estan en Espana (10/11/2026, 239 lineas, 5 fichas verificadas una a una): estructura de 5 puntos + evidencia de novedad por producto correcta; 46 datos sin verificar (envio y plazo 6-9 dias en los 5, precio 1688, ficha CJ, nombres en chino, CE); NINGUN producto con prueba dura a nivel de modelo exacto (prueba solo a nivel de categoria); novedad de formato/escalon de precio en 3 de 5 (Plaud, MEATER y Withings ya estan en Espana) y novedad casi total solo en raton IA de voz y sensor de caidas; ningun precio es de 1688 (login bloqueado, proxy Alibaba/Accio); 4 de 5 superan el CPA Meta en unidad suelta, pero sin test de demanda no son ganadores probados. Veredicto de calidad: documento APTO como investigacion, NO APTO como lista de lanzamiento sin el test de demanda y la cotizacion real de envio.",
+    "created_at": "2026-11-10T22:09:15Z"
   }
 ]
