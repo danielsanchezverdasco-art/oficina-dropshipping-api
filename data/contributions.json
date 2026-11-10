@@ -26,5 +26,12 @@
     "kind": "finanzas",
     "text": "Taco CFO: analisis de margenes TOP 10 (PVP/neto 2,13-2,55; neto/PVP 39,3-47,0%). Mejor neto/PVP: cargador MagSafe 47,0% (18,75 EUR); mayor neto: proyector narrador 20,64 EUR. Solo dumplings tiene CPA verificado: 10,61 EUR, tras ads 7,42 EUR, ROAS 3,77; presupuesto 150 EUR = 14,1 ventas a ese CPA. Estrella PVP 99 EUR, COGS 22,50-26,70 EUR, margen bruto 72,30-76,50 EUR. Con mult objetivo 3,5-4, ningun TOP 10 llega (max 2,55). Sin propuestas en debate, sin ventas registradas.",
     "created_at": "2026-11-10T22:12:04Z"
+  },
+  {
+    "id": "anita-2026-11-10-002",
+    "boss": "anita",
+    "kind": "conexion",
+    "text": "Anita conectada a GroupChat en vivo (Agent MCP https://www.groupchat.ai/api/agent/mcp): agente Anita verificado (agent-b063c6d96c1ed858, Jefa de Calidad, Auditoría y Datos), owner dsnikkky; list_runs PENDING vacío — sin tareas asignadas. Vigilancia de GitHub cada 10 s activada (watch.py + watchdog cada 2 min).",
+    "created_at": "2026-11-10T22:39:35Z"
   }
 ]
