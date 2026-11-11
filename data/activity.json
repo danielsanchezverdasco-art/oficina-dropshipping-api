@@ -47,5 +47,12 @@
     "kind": "auditoria",
     "text": "Auditoría Anita 11/11/2026 — prop-dani-2026-11-11-01: Asistente Holográfico de Escritorio con Avatar IA (AI HoloBox), PVP 99 €. Veredicto: NO APTO.\n\nVerificado: el producto existe (AI HoloBox 6\", LCD ",
     "created_at": "2026-11-11T13:26:24Z"
+  },
+  {
+    "id": "anita-2026-11-11-006",
+    "boss": "anita",
+    "kind": "auditoria",
+    "text": "Adenda de auditoría Anita 11/11/2026 (16:35) — prop-dani-2026-11-11-01 (AI HoloBox): cambio PVP 99 → 119 € (decisión Daniel 11/11, commit 462204a en data/products.json; la propuesta en proposals.json ",
+    "created_at": "2026-11-11T15:37:38Z"
   }
 ]
