@@ -148,6 +148,14 @@
     "note": "ESTA VERSIÓN EXACTAMENTE (foto 11/11): caja cilíndrica AI HoloBox, 6\" LCD holográfica a color, avatar IA, base altavoz de tela. ESTUDIARLA BIEN: especificaciones exactas del dispositivo de la foto; versiones (5,5\"/6\"/7\") y marcas que lo fabrican (Insovision/DeepSeek, Yama, Friday Originality, ZC/SMX); IA a color; imagen propia; suscripción de la IA; batería; CE/RoHS. Determinar si se compra la marca ($330) o el MISMO dispositivo genérico/OEM a PVP 99 €. APTO por voto de Daniel en la mesa (11/11) · convicción 48/100. Comparativa 11/11 (productos/comparativa-holografico-2026-11-11.md + §5 barrido multi-plataforma). Ancla «roza los 300 €» VERIFICADA: AI HoloBox $330 (~304 €); Amazon $129,99. AVISO: a precio de lista Alibaba ($59,99–73,88) el neto cae a ~2–8 € y NO pasa el listón — negociar el precio 1688. Riesgo: suscripción IA (HoloBox solo 3 meses incluidos). SIN muestra física (regla Daniel 11/11 12:11: evaluar con vídeos/imágenes del proveedor; vídeos con IA si hace falta). Decisión HOY en la oficina (Daniel: «yo opino meterlo»); si APTO, landing (tienda) + vídeos. Neto 43,43–47,63 € según dossier; mult 3,7–4,4 según COGS 22,50–26,70 €.",
     "pvp": 99,
     "score": 48,
-    "status": "en_debate"
+    "status": "en_debate",
+    "opinions": [
+      {
+        "boss": "anita",
+        "verdict": "NO APTO",
+        "reason": "NO APTO. El negocio depende de un COGS 1688 de 22,50–26,70 € sin verificar: sin presupuesto escrito y el dossier citado (productos/comparativa-holografico-2026-11-11.md) no existe en el repo. A precio de lista Alibaba ($59,99–73,88) el neto tras CPA cae a ~0 € o negativo. Cero prueba dura del modelo exacto (sin ventas, reseñas ni viral). Datos erróneos en la nota: el fabricante real es NS Display (Shenzhen), IA ChatGPT opcional, no Insovision/DeepSeek; el modelo exacto es solo 6\", no 5,5\"/6\"/7\". Amazon $129,99 no existe; único precio Amazon encontrado $330 (publicado, no comprobado en vivo). Sin evidencia CE/RoHS; suscripción IA opaca (web oficial no aclara coste de renovación); batería 5000 mAh con envío 6–9 días sin verificar. Novedad parcial: el modelo exacto no se vende en España, pero el concepto ya está aquí (Razer AVA 5,5\", 2º semestre 2026; MB3D desde 150 €). Dispositivo de 2023. Para reconsiderar: presupuesto 1688 ≤26,70 € por escrito, CE/RoHS de NS Display, condiciones de suscripción por escrito, dossier subido al repo y precio/reseñas Amazon en vivo. Auditoría 11/11/2026.",
+        "created_at": "2026-11-11T13:26:20Z"
+      }
+    ]
   }
 ]
