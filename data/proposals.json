@@ -138,5 +138,16 @@
     "opinions": [],
     "created_at": "2026-11-11T01:28:15Z",
     "decided_at": null
+  },
+  {
+    "by": "dani",
+    "id": "prop-dani-2026-11-11-01",
+    "mult": 3.7,
+    "name": "Asistente Holográfico de Escritorio con Avatar IA (caja 5,5\" — familia Insovision/DeepSeek)",
+    "neto": 43.43,
+    "note": "APTO por voto de Daniel en la mesa (11/11) · por encima del NO APTO convicción 48/100. Comparativa 11/11 (productos/comparativa-holografico-2026-11-11.md): mejor = familia caja 5,5\" con IA (genérico/OEM precio 1688, 16–19,50 € ex-works); proveedor nombrado Insovision (DeepSeek, MOQ 1); alternativa Friday Originality 7\". IA a color; imagen propia ofrecida por la familia (Amazon pre-configura gratis), falta confirmar por escrito para Insovision/1688. Ancla «roza los 300 €» VERIFICADA: AI HoloBox $330 (~304 €); Amazon $129,99. AVISO: a precio de lista Alibaba ($59,99–73,88) el neto cae a ~2–8 € y NO pasa el listón — negociar el precio 1688. Riesgo: suscripción IA (HoloBox solo 3 meses incluidos). Pendiente: cotización real con captura, muestra 1 ud. (~23–27 €), CE/RoHS, batería, Trends + Meta. Neto 43,43–47,63 € según dossier; mult 3,7–4,4 según COGS 22,50–26,70 €.",
+    "pvp": 99,
+    "score": 48,
+    "status": "en_debate"
   }
 ]
