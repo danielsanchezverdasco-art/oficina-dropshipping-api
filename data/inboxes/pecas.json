@@ -61,5 +61,14 @@
     "created_at": "2026-11-11T04:36:19.861709Z",
     "delivered": false,
     "read": false
+  },
+  {
+    "id": "56253401",
+    "to": "pecas",
+    "from": "daniel",
+    "text": "Aviso: tienes trabajo pendiente en GroupChat. Tarea: Rotar «Set prensa dumplings»: buscar un relevo ganador para este producto. Entra en GroupChat y responde. Revisa GroupChat cada minuto.",
+    "created_at": "2026-11-11T04:45:42Z",
+    "delivered": false,
+    "read": false
   }
 ]
