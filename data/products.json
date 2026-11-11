@@ -120,5 +120,29 @@
     "cpa": null,
     "trasAds": null,
     "note": "Producto estrella · 9,0/10 · COGS 22,50–26,70 € · margen bruto 72,50 € · menos de 500 g · entrega 6–9 días"
+  },
+  {
+    "id": "caza-01",
+    "name": "Proyector de galaxia/estrellas con altavoz Bluetooth (16 colores)",
+    "kind": "caza",
+    "verdict": "pendiente",
+    "pvp": 44.99,
+    "neto": 22.57,
+    "score": null,
+    "cpa": null,
+    "trasAds": null,
+    "note": "Caza 11/11 · APTO rápido a dossier · x3,92 · COGS 11,48 € · proveedor por verificar"
+  },
+  {
+    "id": "caza-02",
+    "name": "Cepillo eléctrico giratorio de limpieza 7 en 1",
+    "kind": "caza",
+    "verdict": "pendiente",
+    "pvp": 49.99,
+    "neto": 23.78,
+    "score": null,
+    "cpa": null,
+    "trasAds": null,
+    "note": "Caza 11/11 · APTO rápido a dossier · x3,55 · COGS 14,08 € · proveedor por verificar"
   }
 ]
