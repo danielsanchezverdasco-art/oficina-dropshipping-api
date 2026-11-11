@@ -113,13 +113,13 @@
     "id": "estrella-01",
     "name": "Asistente Holográfico de Escritorio con Avatar IA",
     "kind": "estrella",
-    "verdict": "no_apto",
+    "verdict": "apto",
     "pvp": 99,
     "neto": null,
     "score": 48,
     "cpa": null,
     "trasAds": null,
-    "note": "NO APTO convicción 48/100 (10/11) · sin proveedor · plan de test incompatible con el presupuesto (CPA <28 €, 50 €/día) · Producto estrella 9,0/10 · COGS 22,50–26,70 € · margen bruto 72,50 € · menos de 500 g · entrega 6–9 días"
+    "note": "APTO por voto de Daniel en la mesa (11/11) · por encima del NO APTO convicción 48/100 (10/11) · sin proveedor · plan de test incompatible con el presupuesto (CPA <28 €, 50 €/día) · Producto estrella 9,0/10 · COGS 22,50–26,70 € · margen bruto 72,50 € · menos de 500 g · entrega 6–9 días"
   },
   {
     "id": "caza-01",
@@ -245,13 +245,13 @@
     "id": "noapto-09",
     "name": "Calendario de adviento de mini-bricks",
     "kind": "conviccion",
-    "verdict": "no_apto",
+    "verdict": "apto",
     "pvp": 59.9,
     "neto": 22.64,
     "score": 42,
     "cpa": null,
     "trasAds": null,
-    "note": "NO APTO convicción 42/100 (10/11) · solo viable con stock UE · envío desde China no llega al 1/12"
+    "note": "APTO por voto de Daniel en la mesa (11/11) · por encima del NO APTO convicción 42/100 (10/11) · solo viable con stock UE · envío desde China no llega al 1/12"
   },
   {
     "id": "noapto-10",
