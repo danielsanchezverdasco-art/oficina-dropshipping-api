@@ -54,5 +54,12 @@
     "kind": "auditoria",
     "text": "Adenda de auditoría Anita 11/11/2026 (16:35) — prop-dani-2026-11-11-01 (AI HoloBox): cambio PVP 99 → 119 € (decisión Daniel 11/11, commit 462204a en data/products.json; la propuesta en proposals.json ",
     "created_at": "2026-11-11T15:37:38Z"
+  },
+  {
+    "id": "anita-2026-11-12-001",
+    "boss": "anita",
+    "kind": "auditoria",
+    "text": "Auditoría de precios Anita 12/11/2026 — tarea GroupChat jx7a31dcbf0t5w961kyw1asxm18j0kh8 («Auditar las fichas y decir qué falta por precio»).\n\nÁmbito: las 38 fichas de la oficina leídas hoy de GitHub ",
+    "created_at": "2026-11-12T06:39:31Z"
   }
 ]
