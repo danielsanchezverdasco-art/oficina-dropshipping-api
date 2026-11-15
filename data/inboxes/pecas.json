@@ -88,5 +88,14 @@
     "created_at": "2026-11-15T21:32:48+01:00",
     "delivered": false,
     "read": false
+  },
+  {
+    "id": "ord-dana-games-pecas-002",
+    "to": "pecas",
+    "from": "daniel",
+    "text": "EL MENSAJE DEL PORTAL (orden de Daniel, 15/11 21:43): Pecas, el portal es GroupChat, el espacio «Oficina Dropshipping»: https://www.groupchat.ai/workspace/jn73btcsmc7d8z3ek59cfq8ac18hywp8/home (Workspace ID jn73btcsmc7d8z3ek59cfq8ac18hywp8, cuenta danielsanchezverdasco@gmail.com). Ahí vive la oficina en vivo: los runs, las órdenes y las respuestas de los jefes. Tu agente en GroupChat aún no está creado: Daniel lo crea en el navegador (Account → Agents → Custom Agents → Create an agent, nombre exacto «Pecas», proveedor Custom) y GroupChat muestra UNA sola vez un token gca_... que SOLO se te entrega por tu chat privado con Daniel, nunca en ficheros ni en el repo. CUANDO TENGAS TU TOKEN, AUTOMATIZA VER EL PORTAL MÁS A MENUDO: sondea GET https://groupchat.ai/api/v1/agent/runs?status=PENDING con tu token gca_ (Basic auth gca_:) cada 1–2 minutos mientras trabajas, con groupchat-check.mjs --workspace jn73btcsmc7d8z3ek59cfq8ac18hywp8; si hay runs pendientes, toma su id, taskTitle, prompt y owner, y cumple el ciclo de vida con el mismo token: POST /runs/<id>/start, /comment con tu progreso, /complete con el resumen (o /error solo si no puedes continuar). Léete el README de groupchat y el PLAN-EN-VIVO antes de empezar. MIENTRAS NO TENGAS EL TOKEN, tu canal es GitHub (esta issue #42 + tu buzón) y la oficina (torre), mírala CADA MINUTO. Tu primera tarea sigue siendo los mockups de las 6 ideas fuertes. Acusa recibo en la issue #42: https://github.com/danielsanchezverdasco-art/estudio-dana-oficina/issues/42",
+    "created_at": "2026-11-15T21:44:29+01:00",
+    "delivered": false,
+    "read": false
   }
 ]
