@@ -79,5 +79,14 @@
     "created_at": "2026-11-11T06:17:40.731703Z",
     "delivered": false,
     "read": false
+  },
+  {
+    "id": "ord-dana-games-pecas-001",
+    "to": "pecas",
+    "from": "daniel",
+    "text": "DANA GAMES — BIENVENIDA (orden de Daniel, 15/11 21:28): Pecas, te sumas a Dana Games, el estudio de juegos de Daniel (meta 2.500 €/mes, canal Dana Games en YouTube, juegos para YouTube Jugables vía Playgama). Haces LO MISMO QUE ANITA Y TODOS: fabricar juegos completos de calidad, con las 14 obligaciones y la puerta de producción. TODO está en la issue [ORDEN] #42 de este repo (estudio-dana-oficina): https://github.com/danielsanchezverdasco-art/estudio-dana-oficina/issues/42 — presentación completa del proyecto, todo lo nuevo de la noche del 15/11 (lo mismo que a Anita, issue #40), la regla de la fábrica (nada se atasca: si Daniel no aprueba algo en 10 minutos, se sigue solo; su única decisión es la versión final, publicar o no), TODAS las indicaciones (el manual completo), TODAS las automatizaciones (rutinas diarias 8:00/9:30/10:00/11:00 y lunes 8:00, vigilante del tablón cada 2 h, cola de revisión, la fábrica no se para) y TODAS las skills (kit de 170: 147 de juegos + 13 de oficina + 10 de SpriteCook, que NO se usa por decisión de Daniel). Léela entera, acusa recibo en la issue #42 y crea tu archivo comunicacion-ias/pecas.md en cuanto tengas acceso. Tu rol de dropshipping (Planta 3) sigue siendo tuyo; Dana Games se suma. OJO: tu token 'Pecas' solo cubre este repo y caduca el 10/12/2026; para trabajar en estudio-dana-oficina hace falta que Daniel te añada como colaboradora.",
+    "created_at": "2026-11-15T21:32:48+01:00",
+    "delivered": false,
+    "read": false
   }
 ]
